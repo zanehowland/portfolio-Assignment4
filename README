@@ -1,18 +1,14 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Reviewer 1
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+The app runs as intended and has the necessary information. The tabs are the default from when you open
+titanium which is easy and I see no problem with using it.
+
+As far as looks the colors aren't exactly visually appealing and the text could be sized and formatted to 
+be more interesting to look at. Also the picture that was added does not show up on any of my emulators.
+
+There is no code to make the app adopt different devices. I personnally couldn't figure this out either 
+but chaning all of the font sizes and formatting numbers to percentages did a good job for when the app is
+ran on a different sized device.
 
 
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
 
